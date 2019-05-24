@@ -1,0 +1,23 @@
+{
+  "name": "liuhao-stringtodate-fmt",
+  "version": "1.0.0",
+  "description": "字符串转为日期",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dizangwang/liuhao-stringTodate-fmt.git"
+  },
+  "keywords": [
+    "字符串",
+    "日期"
+  ],
+  "author": "liuhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dizangwang/liuhao-stringTodate-fmt/issues"
+  },
+  "homepage": "https://github.com/dizangwang/liuhao-stringTodate-fmt#readme"
+}
